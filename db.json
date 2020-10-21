@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "title": "Title One",
+      "body": "The Body One",
+      "publishedAt": "2020-10-17",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "User One",
+      "email": "useroneemail@example.com",
+      "id": 1
+    }
+    ,
+    {
+      "name": "User Two",
+      "email": "usertwoemail@example.com",
+      "id": 2
+    }
+    ,
+    {
+      "name": "User three",
+      "email": "usertwoemail@example.com",
+      "id": 3
+    }
+    ,
+    {
+      "name": "User four",
+      "email": "usertwoemail@example.com",
+      "id": 4
+    }
+    ,
+    {
+      "name": "User five",
+      "email": "usertwoemail@example.com",
+      "id": 5
+    }
+    ,
+    {
+      "name": "User six",
+      "email": "usertwoemail@example.com",
+      "id": 6
+    }
+    ,
+    {
+      "name": "User seven",
+      "email": "usertwoemail@example.com",
+      "id": 7
+    }
+    ,
+    {
+      "name": "User height",
+      "email": "usertwoemail@example.com",
+      "id": 8
+    }
+  ]
+}
